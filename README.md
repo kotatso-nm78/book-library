@@ -2,7 +2,7 @@
 
 A book management system built with PHP (OOP) and MySQL.
 
-🌐 Live Website: "Open Book Library" (https://kotatso-library.fwh.is/)
+🌐 Live Website: "Open Book Library" (https://kotatso-library.fwh.is/library.php)
 
 ✨ Features
 
