@@ -1,13 +1,38 @@
-# Book Library
-Book management system built with PHP (OOP) and MySQL.
+ 📚 Book Library Management System
 
-## Features
-- Add, view, edit, delete books
-- Track status: Available / Borrowed
+A book management system built with PHP (OOP) and MySQL.
 
-## Setup
-1. Install XAMPP, start Apache and MySQL
-2. Put library.php in htdocs/library
-3. Open localhost/library/library.php
+🌐 Live Website: "Open Book Library" (https://kotatso-library.fwh.is/)
 
-The database and table are created automatically.
+✨ Features
+
+- ➕ Add books
+- 📖 View all books
+- ✏️ Edit book details
+- 🗑️ Delete books
+- 🔄 Track book status: Available / Borrowed
+
+🛠️ Technologies
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- Object-Oriented Programming (OOP)
+
+💻 Run Locally Using XAMPP
+
+1. Install XAMPP.
+2. Start Apache and MySQL.
+3. Put "library.php" inside "htdocs/library/".
+4. Open "http://localhost/library/library.php".
+
+The database and table are created automatically when the application connects successfully.
+
+🌐 Hosting
+
+The live version is hosted on InfinityFree.
+
+👨‍💻 Source Code
+
+This repository contains the source code for the project
