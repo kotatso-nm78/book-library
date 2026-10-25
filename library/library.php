@@ -13,10 +13,10 @@ error_reporting(E_ALL);
  * --------------------------------------------------------- */
 class Database
 {
-    private $host = "sql311.infinityfree.com";
-    private $user = "if0_43265625";          
-    private $pass = "";               
-    private $name = "if0_43265625_booklibrary";
+    private $host = "host";
+    private $user = "user";          
+    private $pass = "pass";               
+    private $name = "name";
     private $conn;
 
     public function getConnection()
